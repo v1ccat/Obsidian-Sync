@@ -3,7 +3,7 @@ echo "Script Version 0.4.1.4"
 echo "This script is used to facilitate configuration of git for obsidian. "
 
 HOME_PATH="/storage/emulated/0/Documents"
-DOWNLOAD_FOLDER="$HOME_PATH"
+DOWNLOAD_FOLDER="$HOME_PATH/Git"
 
 
 # Define functions for each menu option
